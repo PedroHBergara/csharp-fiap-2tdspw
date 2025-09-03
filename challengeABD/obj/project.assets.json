@@ -2919,11 +2919,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\ChallengeABD\\challengeABD\\challengeABD.csproj",
+      "projectUniqueName": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\teste\\ChallengeABD\\challengeABD\\challengeABD.csproj",
       "projectName": "challengeABD",
-      "projectPath": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\ChallengeABD\\challengeABD\\challengeABD.csproj",
+      "projectPath": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\teste\\ChallengeABD\\challengeABD\\challengeABD.csproj",
       "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\ChallengeABD\\challengeABD\\obj\\",
+      "outputPath": "C:\\Users\\pedro\\Documents\\programming\\FIAP\\2TDSPW\\Challenge-mottu\\Sprint1\\c#\\teste\\ChallengeABD\\challengeABD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config"
