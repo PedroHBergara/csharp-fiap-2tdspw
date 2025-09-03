@@ -1,0 +1,6 @@
+@challengeABD_HostAddress = http://localhost:5297
+
+GET {{challengeABD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
